@@ -12,3 +12,6 @@ def fun_isrectangular(l):
 
 
 
+
+
+
